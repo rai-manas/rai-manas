@@ -1,4 +1,9 @@
-### Hi there 👋
+# Manas Rai
+## Curently a : *Student*
+## Curently learning 
+  * *C*
+## To reach me
+  * Email - rai.manas08@gmail.com
 
 <!--
 **rai-manas/rai-manas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
