@@ -1,6 +1,6 @@
 # Manas Rai
-## Curently a : *Student*
-## Curently learning 
+## Currently a : *Student*
+## Currently learning 
   * *C*
 ## To reach me
   * Email - rai.manas08@gmail.com
