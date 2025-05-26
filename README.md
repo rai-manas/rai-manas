@@ -1,7 +1,7 @@
 # Manas Rai
 ## Currently a : *Student*
 ## Currently learning 
-  * *C*
+  * *C++*
 ## To reach me
   * Email - rai.manas08@gmail.com
 
