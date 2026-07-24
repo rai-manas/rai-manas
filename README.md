@@ -2,6 +2,7 @@
 ## Currently a : *Student*
 ## Currently learning 
   * *C++*
+  * *backend*
 ## To reach me
   * Email - rai.manas08@gmail.com
 
